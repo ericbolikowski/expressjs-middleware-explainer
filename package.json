@@ -1,0 +1,19 @@
+{
+  "name": "expressmiddleware-example",
+  "version": "1.0.0",
+  "description": "Simple ExpressJS project with name parameter handler",
+  "main": "server.js",
+  "scripts": {
+    "run": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC"
+}
